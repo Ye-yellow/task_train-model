@@ -1,3 +1,8 @@
+# ！！！importance
+
+Due to the large size of the model file, it cannot be uploaded. You can download the model by visiting SparseEnNet (https://github.com/junyachen/sparseennet), and then place the homewk.txt file into the SparseEnNet\data folder to start training.
+
+
 # introduce
 I completed the task of training a recommendation system model by referencing SparseEnNet (https://github.com/junyachen/sparseennet).
 
@@ -14,6 +19,3 @@ This document explains the process of how I integrated the Kuai dataset.
 # use.txt
 In this document, you can see how to train and test the model through the instructions.
 
-# ！！！importance
-
-Due to the large size of the model file, it cannot be uploaded. You can download the model by visiting SparseEnNet (https://github.com/junyachen/sparseennet), and then place the homewk.txt file into the SparseEnNet\data folder to start training.
