@@ -1,8 +1,3 @@
-# ！！！importance
-
- You can download the model by visiting SparseEnNet (https://github.com/junyachen/sparseennet), and then place the homewk.txt file into the SparseEnNet\data folder to start training.
-
-
 # introduce
 I completed the task of training a recommendation system model by referencing SparseEnNet (https://github.com/junyachen/sparseennet).
 
