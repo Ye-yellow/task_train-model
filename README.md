@@ -6,3 +6,9 @@ I organized the Kuai dataset (https://kuairec.com/) as the training dataset for 
 # homewk.txt
 
 homewk.txt references the Kuai dataset and constructs it into a user-video sequence. The construction process is as follows: video IDs are grouped based on user IDs, thus forming a sequence chain of user-video interactions.
+
+# create_homewk.ipynb
+
+This document explains the process of how I integrated the Kuai dataset.
+
+
