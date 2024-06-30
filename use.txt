@@ -4,4 +4,4 @@ python main.py --data_name  Sports_and_Outdoors --num_hidden_layers 1 --eval_id 
 
 python main.py --data_name Sports_and_Outdoors --gpu_id 0 --batch_size 256 --epochs 100
 
-python main.py --data_name homewk --gpu_id 0 --batch_size 64 --epochs 50 --training_data_ratio 0.7
+python main.py --data_name homewk --gpu_id 0 --batch_size 64 --epochs 50 --training_data_ratio 0.5
