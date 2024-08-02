@@ -14,3 +14,5 @@ This document explains the process of how I integrated the Kuai dataset.
 # use.txt
 In this document, you can see how to train and test the model through the instructions.
 
+# Sparse Enhanced Network
+This document contains my notes while reading the literature and code.
